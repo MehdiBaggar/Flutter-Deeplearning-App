@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87166237604",
+    "project_id": "flutterapp-47d44",
+    "storage_bucket": "flutterapp-47d44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87166237604:android:077777abaaf8873cd29f31",
+        "android_client_info": {
+          "package_name": "com.baggarelmehdi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeIr4B2uG41yaDjlA80RR4xrgX6mbT94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87166237604:android:d045e3b47984c2a2d29f31",
+        "android_client_info": {
+          "package_name": "com.elmehdibaggar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeIr4B2uG41yaDjlA80RR4xrgX6mbT94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
